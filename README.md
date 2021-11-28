@@ -1,3 +1,3 @@
-# react-todo-app
+# react-tutorial
 
 udemy tutorial
